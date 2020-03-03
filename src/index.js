@@ -58,9 +58,3 @@ function decode(expr) {
 module.exports = {
   decode
 };
-
-// const expr ="0000101010000000101100101010110000000010**********00000011110000000010";
-// // const result = "save me";
-
-
-// console.log('decode(expr): ', decode(expr));
